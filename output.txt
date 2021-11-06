@@ -1,0 +1,40 @@
+Eigenvalue: 2534712.939867058
+Iteration: 64
+Time: 0.003663188999780687
+Number of Threads:1
+Eigenvalue: 2534712.93986706
+Iteration: 64
+Time: 0.002588866998848971
+Number of Threads:2
+Eigenvalue: 2534712.93986706
+Iteration: 64
+Time: 0.001897923999422346
+Number of Threads:3
+Eigenvalue: 2534712.93986706
+Iteration: 64
+Time: 0.02817066100033117
+Number of Threads:4
+Eigenvalue: 2534712.939867061
+Iteration: 64
+Time: 0.01279518499904952
+Number of Threads:5
+Eigenvalue: 2534712.93986706
+Iteration: 64
+Time: 0.01307894899946405
+Number of Threads:6
+Eigenvalue: 2534712.93986706
+Iteration: 64
+Time: 0.02247503800026607
+Number of Threads:7
+Eigenvalue: 2534712.93986706
+Iteration: 64
+Time: 0.0282191040005273
+Number of Threads:8
+Eigenvalue: 2534712.93986706
+Iteration: 64
+Time: 0.02698767799847701
+Number of Threads:9
+Eigenvalue: 2534712.939867061
+Iteration: 64
+Time: 0.03392374999930325
+Number of Threads:10
